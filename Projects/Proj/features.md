@@ -1,0 +1,4 @@
+- [ ] create folders and files in flutter projects
+- [ ] create folders and files based on feature (i.e. like apps in Django)
+- [ ] create a diagram representation of the project structure (i.e tree diagram)
+- [ ] find all locations where a certain file is being used and represent it in a diagram

@@ -1,0 +1,4 @@
+- [ ] Service Documentation
+- [ ] Code documentation with javadocs
+- [ ] reproduce and fix bugs noticed by @Ramson
+- [ ] Learn MongoDB
