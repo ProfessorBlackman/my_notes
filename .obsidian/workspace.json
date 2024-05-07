@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "e6fdeb0ce79235c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f744dd3dcbca4857",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "947723b4f3c0638a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "dae5c6c207708156",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/WallCraft/Preferences.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9bb2b84fc21a1259",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4ae09f00c395731",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04e452454a95b809",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#fff",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ad18703416fbbaa9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "c1fe1bb8921b4066",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "4a976ad318183228",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a823a4e8f35e496",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7a06337da87b93e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3857bec1539d2b02",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a26d00d32e735465",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d76133d4960da039",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "da10b9b5e6c45b80",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "178c564e286204a8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "060030a73c406cc2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "644444d571e3fdc6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "947723b4f3c0638a",
+  "lastOpenFiles": [
+    "Work/Salesforce Upskilling.md",
+    "Credentials/AWS- IAM Admin.md",
+    "MyNotes/Salesforce/Data Modelling.md",
+    "MyNotes/Salesforce/AppExchange.md",
+    "MyNotes/Salesforce/Salesforce Architecture.md",
+    "Pasted image 20240506143121.png",
+    "MyNotes/Salesforce/Introduction to Salesforce.md",
+    "Pasted image 20240506101718.png",
+    "Work/AmaliSecureSail/Logout.md",
+    "Work/AmaliSecureSail/Features.md",
+    "Projects/WallCraft/Models.md",
+    "Projects/WallCraft/Preferences.md",
+    "Project Ideas/Websites.md",
+    "Project Ideas/Mobile.md",
+    "MyNotes/Salesforce",
+    "Project Ideas/Software.md",
+    "Project Ideas/Tools.md",
+    "MyNotes/Maven/Maven Properties.md",
+    "MyNotes/Maven/Maven.md",
+    "misc/urls.md",
+    "MyNotes/Unit Testing In Java/TestNG.md",
+    "MyNotes/Unit Testing In Java/Mockito.md",
+    "MyNotes/Design Patterns/Command Pattern.md",
+    "MyNotes/Unit Testing In Java",
+    "Projects/WallCraft/Features.md",
+    "Project Ideas/micro saas.md",
+    "MyNotes/Java Basics.md",
+    "MyNotes/Java Memory Model.md",
+    "MyNotes/web security/OpenID Connect.md",
+    "MyNotes/Intro to Devops.md",
+    "MyNotes/web security",
+    "MyNotes/Maven",
+    "MyNotes/Flutter",
+    "MyNotes/Design Patterns",
+    "Projects/WallCraft",
+    "Work/AmaliSecureSail",
+    "Projects/Shitty Authenticator",
+    "Projects/Hotline/Hotline Backend Architecture.canvas",
+    "Projects/Hotline/Untitled Diagram.svg",
+    "Projects/Mini",
+    "Untitled.canvas",
+    "Projects/Ananse/flowchar.canvas",
+    "publish/attachments/clone-repo-git-plugin.png",
+    "Projects/Hotline/Hotline Client Side Architecture.canvas",
+    "Projects/ClockMate/Untitled Diagram.svg",
+    "remote-notes/publish/attachments/vercel-project-id.png",
+    "remote-notes/publish/attachments/vercel-create-token.png",
+    "remote-notes/publish/attachments/vercel-account-id.png",
+    "remote-notes/publish/attachments/publish-dir-yml.png",
+    "remote-notes/publish/attachments/how-linked-blog-starter-works.png"
+  ]
+}
