@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MyNotes/Salesforce/Data Management.md",
+                "file": "MyNotes/Salesforce/Lightning Experience Customization.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MyNotes/Salesforce/Data Management.md",
+                "file": "MyNotes/Salesforce/Lightning Experience Customization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MyNotes/Salesforce/Data Management.md",
+                "file": "MyNotes/Salesforce/Lightning Experience Customization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MyNotes/Salesforce/Data Management.md"
+                "file": "MyNotes/Salesforce/Lightning Experience Customization.md"
               }
             }
           },
@@ -188,8 +188,11 @@
   },
   "active": "01c1933db74a68c1",
   "lastOpenFiles": [
-    "MyNotes/Salesforce/Data Modelling.md",
+    "Work/Salesforce Upskilling.md",
+    "MyNotes/Salesforce/Lightning Experience Customization.md",
+    "Work/Salesforce Upskilling Timeline.canvas",
     "MyNotes/Salesforce/Data Management.md",
+    "MyNotes/Salesforce/Data Modelling.md",
     "Projects/Hotline/SDGs.md",
     "Project Ideas/SDGs.md",
     "Projects/Hotline/Cost.md",
@@ -214,9 +217,6 @@
     "Projects/Hotline/creds.md",
     "Projects/Hotline/Alert Management.md",
     "Projects/DocIt.md",
-    "Project Ideas/Tools.md",
-    "Project Ideas/Software.md",
-    "Work/Salesforce Upskilling Timeline.canvas",
     "Pasted image 20240506143121.png",
     "Pasted image 20240506101718.png",
     "MyNotes/Salesforce",

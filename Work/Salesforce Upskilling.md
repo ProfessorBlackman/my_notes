@@ -12,7 +12,7 @@
 - [ ] **Phase 1 (Beginner - 1wk):**
 	- [x] Salesforce Platform Basics
 	- [x] Data modeling
-	- [ ] Data Management
+	- [x] Data Management
 	- [ ] Lightning Experience Customization
 	- [ ] User Engagement
 	- [ ] Reports & Dashboards for Lightning Experience
