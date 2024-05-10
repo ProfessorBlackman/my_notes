@@ -8,7 +8,38 @@
 | Saturday  | Practice Exams       | Practice Exams        | Relax & Unwind      |
 | Sunday    | Relax & Unwind       | Relax & Unwind        | Relax & Unwind      |
 
+## Timeline:
+- [ ] **Phase 1 (Beginner - 1wk):**
+	- [x] Salesforce Platform Basics
+	- [x] Data modeling
+	- [ ] Data Management
+	- [ ] Lightning Experience Customization
+	- [ ] User Engagement
+	- [ ] Reports & Dashboards for Lightning Experience
+- [ ] **Phase 2 (Intermediate - 1 - 2wk):**
+	- [ ] Formulas and Validations
+	- [ ] Data Security
+	- [ ] Picklist Administration
+	- [ ] Build a suggestion box App (First project)
+	- [ ] Approve Records with Approval Processes
+	- [ ] AppExchange Basics
+	- [ ] External Services
+	- [ ] Use External Services With Flow
+	- [ ] Salesforce Mobile App Roll-out
+	- [ ] Build a space station app (2nd Project)
+- [ ] **Phase 3 (Advanced - <1wk):**
+	- [ ] Event Monitoring
+- [ ] **Phase 4 (Practice & Prep - 1wk):**
+	- [ ] Cert Prep - configs, setup, and objects
+	- [ ] cert prep - applications and activities
+	- [ ] data and automation
+	- [ ] Take more tests
+	- [ ] Build practice projects
+
+
 ## Resources Gathered So Far:
+https://trailhead.salesforce.com/trails
+https://trailhead.salesforce.com/users/strailhead/trailmixes/prepare-for-your-salesforce-administrator-credential
 https://www.linkedin.com/pulse/how-i-passed-salesforce-admin-cert-exam-first-attempt-anna-szabo/
 https://trailhead.salesforce.com/help?article=Salesforce-Certified-Administrator-Exam-Guide
 https://www.youtube.com/playlist?list=PLnobS_RgN7JZxK1wjUvQ84jMFqRZoJXbD

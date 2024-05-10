@@ -4,24 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f744dd3dcbca4857",
+        "id": "70cc1884c89e0e25",
         "type": "tabs",
         "children": [
           {
-            "id": "947723b4f3c0638a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "dae5c6c207708156",
+            "id": "01c1933db74a68c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/WallCraft/Preferences.md",
+                "file": "MyNotes/Salesforce/Data Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MyNotes/Salesforce/Data Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MyNotes/Salesforce/Data Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MyNotes/Salesforce/Data Management.md"
+              }
             }
           },
           {
@@ -190,38 +186,41 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "947723b4f3c0638a",
+  "active": "01c1933db74a68c1",
   "lastOpenFiles": [
-    "Work/Salesforce Upskilling.md",
-    "Credentials/AWS- IAM Admin.md",
     "MyNotes/Salesforce/Data Modelling.md",
-    "MyNotes/Salesforce/AppExchange.md",
-    "MyNotes/Salesforce/Salesforce Architecture.md",
-    "Pasted image 20240506143121.png",
-    "MyNotes/Salesforce/Introduction to Salesforce.md",
-    "Pasted image 20240506101718.png",
-    "Work/AmaliSecureSail/Logout.md",
-    "Work/AmaliSecureSail/Features.md",
-    "Projects/WallCraft/Models.md",
-    "Projects/WallCraft/Preferences.md",
-    "Project Ideas/Websites.md",
-    "Project Ideas/Mobile.md",
-    "MyNotes/Salesforce",
-    "Project Ideas/Software.md",
+    "MyNotes/Salesforce/Data Management.md",
+    "Projects/Hotline/SDGs.md",
+    "Project Ideas/SDGs.md",
+    "Projects/Hotline/Cost.md",
+    "Projects/Hotline/Business model.md",
+    "Projects/Hotline/Marketing.md",
+    "Projects/Hotline/Security.md",
+    "Projects/Hotline/Tips.md",
+    "Projects/Hotline/Offline Mode.md",
+    "Projects/Hotline/Bing.md",
+    "Projects/Hotline/AIA.md",
+    "Projects/Hotline/CGPT.md",
+    "Projects/Hotline/Hotline Features.md",
+    "Projects/Hotline/Resources.md",
+    "Projects/Hotline/ToDo.md",
+    "Projects/Hotline/Triggering.md",
+    "Projects/Hotline/User Management.md",
+    "Projects/Hotline/Untitled Kanban.md",
+    "Projects/Hotline/Hotline Client Side Architecture.canvas",
+    "Projects/Hotline/Hotline Backend Architecture.md",
+    "Projects/Hotline/Hotline Backend Architecture.canvas",
+    "Projects/Hotline/Brief.md",
+    "Projects/Hotline/creds.md",
+    "Projects/Hotline/Alert Management.md",
+    "Projects/DocIt.md",
     "Project Ideas/Tools.md",
-    "MyNotes/Maven/Maven Properties.md",
-    "MyNotes/Maven/Maven.md",
-    "misc/urls.md",
-    "MyNotes/Unit Testing In Java/TestNG.md",
-    "MyNotes/Unit Testing In Java/Mockito.md",
-    "MyNotes/Design Patterns/Command Pattern.md",
+    "Project Ideas/Software.md",
+    "Work/Salesforce Upskilling Timeline.canvas",
+    "Pasted image 20240506143121.png",
+    "Pasted image 20240506101718.png",
+    "MyNotes/Salesforce",
     "MyNotes/Unit Testing In Java",
-    "Projects/WallCraft/Features.md",
-    "Project Ideas/micro saas.md",
-    "MyNotes/Java Basics.md",
-    "MyNotes/Java Memory Model.md",
-    "MyNotes/web security/OpenID Connect.md",
-    "MyNotes/Intro to Devops.md",
     "MyNotes/web security",
     "MyNotes/Maven",
     "MyNotes/Flutter",
@@ -229,13 +228,11 @@
     "Projects/WallCraft",
     "Work/AmaliSecureSail",
     "Projects/Shitty Authenticator",
-    "Projects/Hotline/Hotline Backend Architecture.canvas",
     "Projects/Hotline/Untitled Diagram.svg",
     "Projects/Mini",
     "Untitled.canvas",
     "Projects/Ananse/flowchar.canvas",
     "publish/attachments/clone-repo-git-plugin.png",
-    "Projects/Hotline/Hotline Client Side Architecture.canvas",
     "Projects/ClockMate/Untitled Diagram.svg",
     "remote-notes/publish/attachments/vercel-project-id.png",
     "remote-notes/publish/attachments/vercel-create-token.png",

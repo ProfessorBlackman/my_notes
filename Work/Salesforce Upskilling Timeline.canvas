@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"3b7b4862a721a55b","x":-480,"y":-240,"width":265,"height":70,"type":"text","text":"Admin Beginner"},
+		{"id":"7c2751bf73858b23","type":"text","text":"Salesforce Platform Basics","x":-480,"y":-80,"width":380,"height":70},
+		{"id":"91826649bc556f92","type":"text","text":"Admin Beginner","x":-460,"y":80,"width":265,"height":70},
+		{"id":"1a7e5bf708f24209","type":"text","text":"Admin Beginner","x":-480,"y":220,"width":265,"height":70}
+	],
+	"edges":[]
+}
