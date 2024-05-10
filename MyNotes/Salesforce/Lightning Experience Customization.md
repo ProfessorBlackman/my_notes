@@ -11,3 +11,11 @@ Each Lightning app has a navigation bar at the top of the page, letting your use
 - Find what they need using item names for easy recognition
 - Complete actions and access recent records and lists with a single click
 - Personalize the navigation bar to suit the unique way they work
+
+### Things you can put in an app:
+- Most standard objects, including Home, the main Chatter feed, Groups, and People
+- Your org’s custom objects
+- Visualforce tabs
+- Lightning component tabs
+- Canvas apps via Visualforce tabs
+- Web tabs
