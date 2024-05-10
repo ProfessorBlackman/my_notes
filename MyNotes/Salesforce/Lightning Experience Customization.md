@@ -19,3 +19,13 @@ Each Lightning app has a navigation bar at the top of the page, letting your use
 - Lightning component tabs
 - Canvas apps via Visualforce tabs
 - Web tabs
+
+## Meet the Lightning Experience App Manager
+
+The App Manager is your go-to place for managing apps for Lightning Experience. It shows all your connected apps and Salesforce apps.
+![[Pasted image 20240510162213.png]]
+Use the App Manager in Lightning Experience to:
+- View all your Salesforce apps.
+- Create Lightning apps or connected apps (**1**).
+- See which apps are visible in Lightning Experience (**2**).
+- Easily manage apps (**3**).
