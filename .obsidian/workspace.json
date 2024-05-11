@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MyNotes/Salesforce/Lightning Experience Customization.md",
+                "file": "Projects/Hotline/Bing.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MyNotes/Salesforce/Lightning Experience Customization.md",
+                "file": "Projects/Hotline/Bing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MyNotes/Salesforce/Lightning Experience Customization.md",
+                "file": "Projects/Hotline/Bing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MyNotes/Salesforce/Lightning Experience Customization.md"
+                "file": "Projects/Hotline/Bing.md"
               }
             }
           },
@@ -188,23 +188,23 @@
   },
   "active": "01c1933db74a68c1",
   "lastOpenFiles": [
-    "Pasted image 20240510162213.png",
     "Projects/Hotline/Analytics.md",
+    "Projects/Hotline/Alert Management.md",
+    "Projects/Hotline/AIA.md",
+    "Projects/Hotline/mobile/Triggering.md",
+    "Projects/Hotline/mobile/Offline Mode.md",
+    "Projects/Hotline/mobile/Hotline Client Side Architecture.canvas",
+    "MyNotes/Salesforce/Lightning Experience Customization.md",
+    "Pasted image 20240510162213.png",
     "Projects/Hotline/User Stories.md",
     "Projects/Hotline/NGOs.md",
     "Projects/Hotline/Users.md",
     "Projects/Hotline/Collaboration.md",
     "Project Ideas/SDGs.md",
-    "Projects/Hotline/Alert Management.md",
     "Projects/Hotline/Bing.md",
-    "Projects/Hotline/AIA.md",
-    "Projects/Hotline/mobile/Triggering.md",
     "Projects/Hotline/Security.md",
     "Projects/Hotline/Resources.md",
-    "Projects/Hotline/mobile/Offline Mode.md",
     "Projects/Hotline/Hotline Features.md",
-    "Projects/Hotline/mobile/Hotline Client Side Architecture.canvas",
-    "MyNotes/Salesforce/Lightning Experience Customization.md",
     "Projects/Hotline/mobile",
     "Work/Salesforce Upskilling.md",
     "Work/Salesforce Upskilling Timeline.canvas",
@@ -237,7 +237,6 @@
     "remote-notes/publish/attachments/vercel-project-id.png",
     "remote-notes/publish/attachments/vercel-create-token.png",
     "remote-notes/publish/attachments/vercel-account-id.png",
-    "remote-notes/publish/attachments/publish-dir-yml.png",
-    "remote-notes/publish/attachments/how-linked-blog-starter-works.png"
+    "remote-notes/publish/attachments/publish-dir-yml.png"
   ]
 }

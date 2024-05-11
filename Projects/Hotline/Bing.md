@@ -10,7 +10,7 @@ Your idea for an emergency reporting platform is commendable! Leveraging technol
     - Accurate location information is crucial for emergency responders. Implement GPS-based tracking to pinpoint the user’s location.
     - Ensure privacy controls so that users can choose when to share their location (e.g., only during emergencies).
 4. **Emergency Analysis and Predictions:**
-    - Use historical data and machine learning algorithms to predict emergency hotspots or potential incidents.
+    - Use historical data and machine learning algorithms to predict emergency hot spots or potential incidents.
     - For example, if there’s a sudden spike in heart attack reports in a specific area, the system could alert nearby medical professionals.
 5. **Integration with Emergency Services:**
     - Collaborate with local emergency services (police, fire, medical) to integrate your platform with their existing infrastructure.

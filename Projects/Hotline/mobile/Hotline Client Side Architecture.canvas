@@ -2,17 +2,17 @@
 	"nodes":[
 		{"id":"4b2763b72e02307b","type":"text","text":"LOGIN","x":240,"y":-200,"width":160,"height":60},
 		{"id":"f8db70873ef3d305","type":"text","text":"SIGNUP","x":-220,"y":-200,"width":160,"height":60},
-		{"id":"741c402801b4bfc6","type":"text","text":"PERSONAL INFO FORM","x":500,"y":0,"width":160,"height":60},
-		{"id":"d216726c1ec83136","type":"text","text":"EMERGENCY FORM","x":500,"y":120,"width":160,"height":60},
-		{"id":"719f5fce2b2a50d2","type":"text","text":"MEDICAL FORM","x":500,"y":240,"width":160,"height":60},
-		{"id":"3f0fc514864a621f","type":"text","text":"DASHBOARD","x":240,"y":-80,"width":160,"height":60},
+		{"id":"741c402801b4bfc6","type":"text","text":"PERSONAL INFO FORM","x":500,"y":0,"width":360,"height":60},
+		{"id":"d216726c1ec83136","type":"text","text":"EMERGENCY FORM","x":500,"y":120,"width":300,"height":60},
+		{"id":"719f5fce2b2a50d2","type":"text","text":"MEDICAL FORM","x":500,"y":240,"width":280,"height":60},
+		{"id":"3f0fc514864a621f","type":"text","text":"DASHBOARD","x":160,"y":-80,"width":240,"height":60},
 		{"id":"0db61c4aea780803","type":"text","text":"CALL","x":320,"y":60,"width":160,"height":60},
 		{"id":"05965dfe57d647a6","type":"text","text":"CHAT","x":160,"y":120,"width":160,"height":60},
-		{"id":"1ddd9fda5c73cda2","type":"text","text":"GIVE FEEDBACK","x":240,"y":240,"width":160,"height":60},
-		{"id":"617390538afbb85a","type":"text","text":"CONFIRMATION","x":-220,"y":-80,"width":160,"height":60},
-		{"id":"15df665307dde2e8","type":"text","text":"FORGOT PASSWORD","x":580,"y":-200,"width":160,"height":60},
-		{"id":"e7e72188af2981d0","type":"text","text":"SIDE MENU","x":-40,"y":120,"width":160,"height":60},
-		{"id":"d2f6127989f55dac","type":"text","text":"CHANGE PASSWORD","x":-160,"y":0,"width":160,"height":60}
+		{"id":"1ddd9fda5c73cda2","type":"text","text":"GIVE FEEDBACK","x":120,"y":240,"width":280,"height":50},
+		{"id":"617390538afbb85a","type":"text","text":"CONFIRMATION","x":-340,"y":-80,"width":280,"height":60},
+		{"id":"15df665307dde2e8","type":"text","text":"FORGOT PASSWORD","x":580,"y":-200,"width":320,"height":60},
+		{"id":"e7e72188af2981d0","type":"text","text":"SIDE MENU","x":-100,"y":120,"width":220,"height":60},
+		{"id":"d2f6127989f55dac","type":"text","text":"CHANGE PASSWORD","x":-340,"y":0,"width":340,"height":60}
 	],
 	"edges":[
 		{"id":"7ab72d25ee6994c4","fromNode":"f8db70873ef3d305","fromSide":"bottom","toNode":"617390538afbb85a","toSide":"top"},
