@@ -4,7 +4,7 @@
 2. [x] **Requirements Documented**
 3. [ ] **Architecture Designed**
 4. [ ] **Project Plan Created**
-5. [ ] **Version Control Set Up**
+5. [x] **Version Control Set Up**
 6. [ ] **Code Development Underway**
 7. [ ] **Testing Completed**
 8. [ ] **Documentation Prepared**

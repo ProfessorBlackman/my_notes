@@ -1,4 +1,5 @@
 {
   "newFileLocation": "root",
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "alwaysUpdateLinks": true
 }

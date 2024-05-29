@@ -1,0 +1,1 @@
+I want to build an app that helps people with attention issues focus. I'm thinking of a timer that buzzes periodically like a metronome. It will be paired with a desktop app which will keep track of opened windows when the focus is switch an alert will be made to the user after an adjustable period to let them know they might have unknowingly lost focus.

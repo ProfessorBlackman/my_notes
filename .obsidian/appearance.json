@@ -1,8 +1,9 @@
 {
   "accentColor": "",
-  "theme": "obsidian",
+  "theme": "moonstone",
   "showViewHeader": true,
   "baseFontSizeAction": true,
-  "baseFontSize": 29,
-  "cssTheme": "AnuPpuccin"
+  "baseFontSize": 20,
+  "cssTheme": "AnuPpuccin",
+  "nativeMenus": false
 }

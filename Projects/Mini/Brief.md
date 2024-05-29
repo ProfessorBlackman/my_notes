@@ -1,11 +1,20 @@
 ### Project Plan:
 
 1. **Requirements Gathering**: Understand the purpose of the URL shortener, target audience, expected usage volume, and any specific features required.
-2. **Design Architecture**: Determine the technology stack, database structure, and overall system architecture.
-3. **Development**: Implement the backend and frontend components of the URL shortener.
-4. **Testing**: Conduct thorough testing to ensure the system is robust and reliable.
-5. **Deployment**: Deploy the URL shortener to a server or cloud platform.
-6. **Monitoring and Maintenance**: Regularly monitor the system for performance issues and apply updates as needed.
+2. **Design Architecture**: 
+	- **Backend:** Spring Boot, Spring Data JPA, Spring Security
+	- **Frontend:** React, Redux
+	- **Database:** SupaBase PostgreSQL
+	- **Authentication:** SupaBase Auth (email - password, magic link, and otp)
+	- **Server-side Caching:** Redis
+	- **Monitoring:** Prometheus, Grafana, Sentry, Actuator
+1. **Development Tools**: Intellij Idea, WebStorm, Sonarlint, git, github
+2. **Testing:**
+	- **Unit Testing:** TestNG
+	- **Integration Testing:** JMeter
+	- **Behavior Testing:** Cucumber
+1. **Deployment**: AWS EC2
+2. **Monitoring and Maintenance**: Prometheus and Grafana
 
 ### Features:
 
@@ -16,6 +25,8 @@
 5. **Expiration**: Option to set expiration dates for short URLs.
 6. **API**: Provide an API for integrating the URL shortener with other applications.
 7. **Authentication**: Implement user authentication and authorization for managing short URLs.
+8. **QR Code Generation:** Generate qr codes for shortened urls and other data.
+9. **Campaign:** Create collections of links and qr codes for specific project purposes
 
 ### User Stories:
 

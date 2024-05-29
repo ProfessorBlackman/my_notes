@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "70cc1884c89e0e25",
+        "id": "85797cf55f26b26b",
         "type": "tabs",
         "children": [
           {
-            "id": "01c1933db74a68c1",
+            "id": "eced608ad2efb5ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Ideas/SDGs.md",
+                "file": "Projects/CTOAN/Features.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Ideas/SDGs.md",
+                "file": "Projects/CTOAN/Features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Ideas/SDGs.md",
+                "file": "Projects/CTOAN/Features.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Ideas/SDGs.md"
+                "file": "Projects/CTOAN/Features.md"
               }
             }
           },
@@ -167,11 +167,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 322.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -186,40 +186,49 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "01c1933db74a68c1",
+  "active": "eced608ad2efb5ad",
   "lastOpenFiles": [
-    "Projects/Hotline/mobile/Triggering.md",
-    "Projects/Hotline/Bing.md",
-    "Projects/Hotline/Analytics.md",
-    "Projects/Hotline/Alert Management.md",
-    "Projects/Hotline/AIA.md",
-    "Projects/Hotline/mobile/Offline Mode.md",
-    "Projects/Hotline/mobile/Hotline Client Side Architecture.canvas",
-    "MyNotes/Salesforce/Lightning Experience Customization.md",
-    "Pasted image 20240510162213.png",
-    "Projects/Hotline/User Stories.md",
-    "Projects/Hotline/NGOs.md",
-    "Projects/Hotline/Users.md",
-    "Projects/Hotline/Collaboration.md",
-    "Project Ideas/SDGs.md",
-    "Projects/Hotline/Security.md",
-    "Projects/Hotline/Resources.md",
+    "MyNotes/Salesforce/User Management.md",
     "Projects/Hotline/Hotline Features.md",
+    "Projects/Hotline/User Management.md",
+    "MyNotes/Salesforce/Prepare Your Salesforce Org for Users.md",
+    "Projects/CTOAN/Features.md",
+    "Projects/CTOAN/Untitled Kanban.md",
+    "Projects/CTOAN/Brief.md",
+    "Project Ideas/Mobile.md",
+    "Projects/CTOAN",
+    "Project Ideas/Tools.md",
+    "MyNotes/Reactive Python.md",
+    "MyNotes/Reactive Java.md",
+    "Project Ideas/SDGs.md",
+    "Project Ideas/micro saas.md",
+    "MyNotes/Salesforce/Lightning Reports and Dashboards.md",
+    "Pasted image 20240527123127.png",
+    "Pasted image 20240527103800.png",
+    "Projects/Mini/MVP Features.md",
+    "Projects/Mini/Metrics.md",
+    "Projects/Mini/Jotter.md",
+    "Projects/Mini/Features.md",
+    "Projects/Mini/Brief.md",
+    "MyNotes/Salesforce/Lightning Experience Customization.md",
+    "MyNotes/Salesforce/Introduction to Salesforce.md",
+    "Pasted image 20240520101728.png",
+    "Pasted image 20240520101719.png",
+    "Pasted image 20240520101551.png",
+    "MyNotes/Salesforce/Design a User Engagement Journey.md",
+    "MyNotes/Salesforce/Enable Users to Learn in the Flow of Work.md",
+    "Pasted image 20240516135720.png",
+    "Pasted image 20240516135139.png",
+    "MyNotes/Salesforce/User Engagement.md",
+    "Pasted image 20240516102034.png",
+    "Pasted image 20240516102030.png",
+    "Pasted image 20240514134336.png",
+    "Projects/Hotline/mobile/Triggering.md",
+    "Projects/Readme Structure.md",
+    "Projects/Hotline/mobile/Hotline Client Side Architecture.canvas",
     "Projects/Hotline/mobile",
-    "Work/Salesforce Upskilling.md",
     "Work/Salesforce Upskilling Timeline.canvas",
-    "MyNotes/Salesforce/Data Management.md",
-    "MyNotes/Salesforce/Data Modelling.md",
-    "Projects/Hotline/SDGs.md",
-    "Projects/Hotline/Cost.md",
-    "Projects/Hotline/Business model.md",
-    "Projects/Hotline/Marketing.md",
-    "Projects/Hotline/Tips.md",
-    "Projects/Hotline/CGPT.md",
-    "Projects/Hotline/ToDo.md",
     "Projects/Hotline/Hotline Backend Architecture.canvas",
-    "Pasted image 20240506143121.png",
-    "Pasted image 20240506101718.png",
     "MyNotes/Salesforce",
     "MyNotes/Unit Testing In Java",
     "MyNotes/web security",
@@ -228,15 +237,7 @@
     "MyNotes/Design Patterns",
     "Projects/WallCraft",
     "Work/AmaliSecureSail",
-    "Projects/Shitty Authenticator",
-    "Projects/Hotline/Untitled Diagram.svg",
     "Untitled.canvas",
-    "Projects/Ananse/flowchar.canvas",
-    "publish/attachments/clone-repo-git-plugin.png",
-    "Projects/ClockMate/Untitled Diagram.svg",
-    "remote-notes/publish/attachments/vercel-project-id.png",
-    "remote-notes/publish/attachments/vercel-create-token.png",
-    "remote-notes/publish/attachments/vercel-account-id.png",
-    "remote-notes/publish/attachments/publish-dir-yml.png"
+    "Projects/Ananse/flowchar.canvas"
   ]
 }

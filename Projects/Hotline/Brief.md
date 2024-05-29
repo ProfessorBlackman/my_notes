@@ -7,5 +7,5 @@ Build a platform, with a mobile client, a web client with a central backend for 
 ## Features:
 - See [[Hotline Features]]
 - [[Triggering]]
-- [[User Management]]
+- [[Projects/Hotline/User Management]]
 - [[Alert Management]]
